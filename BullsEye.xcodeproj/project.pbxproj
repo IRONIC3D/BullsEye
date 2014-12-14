@@ -21,6 +21,7 @@
 		48280C65BEDCF3264A38CD37 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4828093D2D7B83B10F508A34 /* Foundation.framework */; };
 		48280D5CDCF72DB84554695B /* BullsEyeTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 48280D625D9EAAEF814B6A95 /* BullsEyeTests.m */; };
 		48280E007F770F9F9AF386C0 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 48280DEA63611ED0668C3079 /* UIKit.framework */; };
+		AE7AB7DE1A3DB38A00E558C0 /* AboutViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AE7AB7DD1A3DB38A00E558C0 /* AboutViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,8 @@
 		48280DFAC3788EEAD94F12AA /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		48280E9FBAAD71840624F047 /* BullsEye-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "BullsEye-Prefix.pch"; sourceTree = "<group>"; };
 		48280F056B1F4D3064295EE5 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
+		AE7AB7DC1A3DB38A00E558C0 /* AboutViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AboutViewController.h; sourceTree = "<group>"; };
+		AE7AB7DD1A3DB38A00E558C0 /* AboutViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AboutViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -137,6 +140,8 @@
 				482806C965C92C5B21393E41 /* BullsEyeAppDelegate.m */,
 				482809E4FAEC2FA3E041114A /* Images.xcassets */,
 				48280C869A69FEC8AC517D9D /* Main.storyboard */,
+				AE7AB7DC1A3DB38A00E558C0 /* AboutViewController.h */,
+				AE7AB7DD1A3DB38A00E558C0 /* AboutViewController.m */,
 				48280AFFF6C6C61956057FCA /* BullsEyeViewController.h */,
 				48280CA19F1718280236B64A /* BullsEyeViewController.m */,
 			);
@@ -252,6 +257,7 @@
 			files = (
 				482809603F92A97BBEEA26A2 /* main.m in Sources */,
 				48280541C41A81CA3FF539C7 /* BullsEyeAppDelegate.m in Sources */,
+				AE7AB7DE1A3DB38A00E558C0 /* AboutViewController.m in Sources */,
 				48280B3C5A302B76F3A77239 /* BullsEyeViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

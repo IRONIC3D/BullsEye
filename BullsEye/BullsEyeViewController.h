@@ -18,9 +18,7 @@
 - (IBAction)showAlert;
 - (IBAction)sliderMoved:(UISlider *)slider;
 - (IBAction)startOver;
-
 - (void)startNewGame;
-
 - (void)startNewRound;
 - (void)updateLabels;
 @end
