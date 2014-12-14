@@ -14,5 +14,6 @@
 
 - (IBAction)showAlert;
 - (IBAction)sliderMoved:(UISlider *)slider;
+- (void)startNewRound;
 
 @end
