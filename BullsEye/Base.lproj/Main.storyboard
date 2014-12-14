@@ -112,6 +112,8 @@
                     <connections>
                         <outlet property="slider" destination="sjr-mw-EOU" id="wnK-LC-5Fm"/>
                         <outlet property="targetLabel" destination="mG4-Lo-7l9" id="SPY-AM-PrK"/>
+                        <outlet property="scoreLabel" destination="P04-5f-UiE" id="uoy-BG-Vkr"/>
+                        <outlet property="roundLabel" destination="EGf-CB-jTK" id="waw-eD-u9N"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="x5A-6p-PRh" sceneMemberID="firstResponder"/>
