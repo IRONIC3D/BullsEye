@@ -120,6 +120,7 @@
                         <outlet property="slider" destination="sjr-mw-EOU" id="wnK-LC-5Fm"/>
                         <outlet property="targetLabel" destination="mG4-Lo-7l9" id="SPY-AM-PrK"/>
                     </connections>
+                    <nil key="simulatedStatusBarMetrics"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="x5A-6p-PRh" sceneMemberID="firstResponder"/>
             </objects>
@@ -163,6 +164,7 @@ Your goal is to place the slider as close as possible to the target value. The c
                         <simulatedOrientationMetrics key="simulatedOrientationMetrics" orientation="landscapeRight"/>
                     </view>
                     <simulatedOrientationMetrics key="simulatedOrientationMetrics" orientation="landscapeRight"/>
+                    <nil key="simulatedStatusBarMetrics"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="CGc-eY-e6h" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
