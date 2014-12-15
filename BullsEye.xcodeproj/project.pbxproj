@@ -22,6 +22,7 @@
 		48280D5CDCF72DB84554695B /* BullsEyeTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 48280D625D9EAAEF814B6A95 /* BullsEyeTests.m */; };
 		48280E007F770F9F9AF386C0 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 48280DEA63611ED0668C3079 /* UIKit.framework */; };
 		AE7AB7DE1A3DB38A00E558C0 /* AboutViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AE7AB7DD1A3DB38A00E558C0 /* AboutViewController.m */; };
+		E61406581A3E99B50010DF89 /* BullsEye.html in Resources */ = {isa = PBXBuildFile; fileRef = E61406571A3E99B50010DF89 /* BullsEye.html */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -56,6 +57,7 @@
 		48280F056B1F4D3064295EE5 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
 		AE7AB7DC1A3DB38A00E558C0 /* AboutViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AboutViewController.h; sourceTree = "<group>"; };
 		AE7AB7DD1A3DB38A00E558C0 /* AboutViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AboutViewController.m; sourceTree = "<group>"; };
+		E61406571A3E99B50010DF89 /* BullsEye.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = BullsEye.html; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -135,6 +137,7 @@
 		48280B21598906CF9DB66422 /* BullsEye */ = {
 			isa = PBXGroup;
 			children = (
+				E61406571A3E99B50010DF89 /* BullsEye.html */,
 				4828030CB0C5BF0CA9CE26EC /* Supporting Files */,
 				48280A0399A203C313A345E8 /* BullsEyeAppDelegate.h */,
 				482806C965C92C5B21393E41 /* BullsEyeAppDelegate.m */,
@@ -235,6 +238,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4828018769036E87949EF503 /* InfoPlist.strings in Resources */,
+				E61406581A3E99B50010DF89 /* BullsEye.html in Resources */,
 				482801F69A1CD00350EDC49D /* Images.xcassets in Resources */,
 				48280BF31A45B634A204F6EB /* Main.storyboard in Resources */,
 			);
